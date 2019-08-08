@@ -1,0 +1,18 @@
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Users.Domain\bin\Debug\Users.Domain.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Users.Domain\bin\Debug\Users.Domain.pdb
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Users.Domain\obj\Debug\Users.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Users.Domain\obj\Debug\Users.Domain.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Users.Domain\obj\Debug\Users.Domain.pdb
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Users.Domain\obj\Debug\Users.Domain.csprojAssemblyReference.cache
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Users.Domain\bin\Debug\Users.Domain.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Users.Domain\bin\Debug\Users.Domain.pdb
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Users.Domain\obj\Debug\Users.Domain.csprojAssemblyReference.cache
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Users.Domain\obj\Debug\Users.Domain.csproj.CoreCompileInputs.cache
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Users.Domain\obj\Debug\Users.Domain.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Users.Domain\obj\Debug\Users.Domain.pdb
+D:\Fluent\Users.Domain\bin\Debug\Users.Domain.dll
+D:\Fluent\Users.Domain\bin\Debug\Users.Domain.pdb
+D:\Fluent\Users.Domain\obj\Debug\Users.Domain.csprojAssemblyReference.cache
+D:\Fluent\Users.Domain\obj\Debug\Users.Domain.csproj.CoreCompileInputs.cache
+D:\Fluent\Users.Domain\obj\Debug\Users.Domain.dll
+D:\Fluent\Users.Domain\obj\Debug\Users.Domain.pdb

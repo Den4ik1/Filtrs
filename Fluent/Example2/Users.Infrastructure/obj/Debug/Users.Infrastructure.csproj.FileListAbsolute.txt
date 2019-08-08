@@ -1,0 +1,18 @@
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\Users.Infrastructure\bin\Debug\Users.Infrastructure.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\Users.Infrastructure\bin\Debug\Users.Infrastructure.pdb
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\Users.Infrastructure\obj\Debug\Users.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\Users.Infrastructure\obj\Debug\Users.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\Users.Infrastructure\obj\Debug\Users.Infrastructure.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\Users.Infrastructure\obj\Debug\Users.Infrastructure.pdb
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\Users.Infrastructure\bin\Debug\Users.Infrastructure.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\Users.Infrastructure\bin\Debug\Users.Infrastructure.pdb
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\Users.Infrastructure\obj\Debug\Users.Infrastructure.csprojAssemblyReference.cache
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\Users.Infrastructure\obj\Debug\Users.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\Users.Infrastructure\obj\Debug\Users.Infrastructure.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\Users.Infrastructure\obj\Debug\Users.Infrastructure.pdb
+D:\Fluent\Example2\Users.Infrastructure\bin\Debug\Users.Infrastructure.dll
+D:\Fluent\Example2\Users.Infrastructure\bin\Debug\Users.Infrastructure.pdb
+D:\Fluent\Example2\Users.Infrastructure\obj\Debug\Users.Infrastructure.csprojAssemblyReference.cache
+D:\Fluent\Example2\Users.Infrastructure\obj\Debug\Users.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Fluent\Example2\Users.Infrastructure\obj\Debug\Users.Infrastructure.dll
+D:\Fluent\Example2\Users.Infrastructure\obj\Debug\Users.Infrastructure.pdb

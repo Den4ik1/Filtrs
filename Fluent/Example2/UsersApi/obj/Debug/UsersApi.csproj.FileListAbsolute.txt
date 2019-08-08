@@ -1,0 +1,408 @@
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\UsersApi.dll.config
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\UsersApi.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\UsersApi.pdb
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\csc.exe
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\csc.exe.config
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\csc.rsp
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\csi.exe
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\csi.exe.config
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\csi.rsp
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\System.AppContext.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\System.Console.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\vbc.exe
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\vbc.exe.config
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\vbc.rsp
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\FluentValidation.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\FluentValidation.ValidatorAttribute.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\FluentValidation.WebApi.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.Practices.Unity.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Newtonsoft.Json.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\System.ComponentModel.Annotations.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\System.Web.Http.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Unity.WebApi.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Users.DependencyInjection.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Users.Domain.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Users.InfrastructureServices.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Users.DomainService.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Users.Infrastructure.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\netstandard.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\System.Interactive.Async.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Remotion.Linq.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\System.Collections.Immutable.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\System.Data.SqlClient.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.Extensions.Options.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\System.Memory.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\System.Numerics.Vectors.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\System.Buffers.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Users.Domain.pdb
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Users.DependencyInjection.pdb
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Users.DependencyInjection.dll.config
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\FluentValidation.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\FluentValidation.WebApi.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.Practices.Unity.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Newtonsoft.Json.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\System.Web.Http.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Users.InfrastructureServices.pdb
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Users.InfrastructureServices.dll.config
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Users.DomainService.pdb
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Users.Infrastructure.pdb
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\System.Interactive.Async.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Remotion.Linq.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\System.Collections.Immutable.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.Extensions.Options.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\System.Memory.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\System.Numerics.Vectors.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\System.Buffers.xml
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\ru\System.Web.Http.resources.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\obj\Debug\UsersApi.csprojAssemblyReference.cache
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\obj\Debug\UsersApi.csproj.CoreCompileInputs.cache
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\obj\Debug\UsersApi.csproj.CopyComplete
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\obj\Debug\UsersApi.dll
+C:\Users\Арсений\Desktop\Примерчики\ВИДИМО ASP.NET MVC\LectureWork\Example2\UsersApi\obj\Debug\UsersApi.pdb
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\UsersApi.dll.config
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\UsersApi.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\UsersApi.pdb
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\csc.exe
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\csc.exe.config
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\csc.rsp
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\csi.exe
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\csi.exe.config
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\csi.rsp
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\System.AppContext.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\System.Console.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\vbc.exe
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\vbc.exe.config
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\vbc.rsp
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\FluentValidation.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\FluentValidation.ValidatorAttribute.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\FluentValidation.WebApi.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.Practices.Unity.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Newtonsoft.Json.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\System.ComponentModel.Annotations.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\System.Net.Http.Formatting.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\System.Web.Http.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\System.Web.Http.WebHost.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Unity.WebApi.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Users.DependencyInjection.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Users.Domain.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Users.InfrastructureServices.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Users.DomainService.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Users.Infrastructure.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\netstandard.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\System.Interactive.Async.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Remotion.Linq.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\System.Collections.Immutable.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.Logging.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\System.Data.SqlClient.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.Options.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\System.Memory.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\System.Numerics.Vectors.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\System.Buffers.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Users.Domain.pdb
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Users.DependencyInjection.pdb
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Users.DependencyInjection.dll.config
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\FluentValidation.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\FluentValidation.WebApi.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.Practices.Unity.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Newtonsoft.Json.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\System.Net.Http.Formatting.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\System.Web.Http.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\System.Web.Http.WebHost.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Users.InfrastructureServices.pdb
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Users.InfrastructureServices.dll.config
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Users.DomainService.pdb
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Users.Infrastructure.pdb
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\System.Interactive.Async.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Remotion.Linq.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\System.Collections.Immutable.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.Logging.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.Options.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\System.Memory.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\System.Numerics.Vectors.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\System.Buffers.xml
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\ru\System.Web.Http.resources.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\obj\Debug\UsersApi.csprojAssemblyReference.cache
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\obj\Debug\UsersApi.csproj.CoreCompileInputs.cache
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\obj\Debug\UsersApi.csproj.CopyComplete
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\obj\Debug\UsersApi.dll
+C:\Users\furyn\OneDrive\Рабочий стол\Fluent\Example2\UsersApi\obj\Debug\UsersApi.pdb
+D:\Fluent\Example2\UsersApi\bin\UsersApi.dll.config
+D:\Fluent\Example2\UsersApi\bin\UsersApi.dll
+D:\Fluent\Example2\UsersApi\bin\UsersApi.pdb
+D:\Fluent\Example2\UsersApi\bin\roslyn\csc.exe
+D:\Fluent\Example2\UsersApi\bin\roslyn\csc.exe.config
+D:\Fluent\Example2\UsersApi\bin\roslyn\csc.rsp
+D:\Fluent\Example2\UsersApi\bin\roslyn\csi.exe
+D:\Fluent\Example2\UsersApi\bin\roslyn\csi.exe.config
+D:\Fluent\Example2\UsersApi\bin\roslyn\csi.rsp
+D:\Fluent\Example2\UsersApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Fluent\Example2\UsersApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Fluent\Example2\UsersApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Fluent\Example2\UsersApi\bin\roslyn\System.AppContext.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\System.Console.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\System.IO.Compression.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\System.IO.FileSystem.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\System.IO.Pipes.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\System.Security.AccessControl.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\System.Security.Claims.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\System.ValueTuple.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\System.Xml.XPath.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Fluent\Example2\UsersApi\bin\roslyn\vbc.exe
+D:\Fluent\Example2\UsersApi\bin\roslyn\vbc.exe.config
+D:\Fluent\Example2\UsersApi\bin\roslyn\vbc.rsp
+D:\Fluent\Example2\UsersApi\bin\roslyn\VBCSCompiler.exe
+D:\Fluent\Example2\UsersApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Fluent\Example2\UsersApi\bin\FluentValidation.dll
+D:\Fluent\Example2\UsersApi\bin\FluentValidation.ValidatorAttribute.dll
+D:\Fluent\Example2\UsersApi\bin\FluentValidation.WebApi.dll
+D:\Fluent\Example2\UsersApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Fluent\Example2\UsersApi\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Fluent\Example2\UsersApi\bin\Microsoft.Practices.Unity.dll
+D:\Fluent\Example2\UsersApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Fluent\Example2\UsersApi\bin\Newtonsoft.Json.dll
+D:\Fluent\Example2\UsersApi\bin\System.ComponentModel.Annotations.dll
+D:\Fluent\Example2\UsersApi\bin\System.Net.Http.Formatting.dll
+D:\Fluent\Example2\UsersApi\bin\System.Web.Http.dll
+D:\Fluent\Example2\UsersApi\bin\System.Web.Http.WebHost.dll
+D:\Fluent\Example2\UsersApi\bin\Unity.WebApi.dll
+D:\Fluent\Example2\UsersApi\bin\Users.DependencyInjection.dll
+D:\Fluent\Example2\UsersApi\bin\Users.Domain.dll
+D:\Fluent\Example2\UsersApi\bin\Microsoft.EntityFrameworkCore.dll
+D:\Fluent\Example2\UsersApi\bin\Users.InfrastructureServices.dll
+D:\Fluent\Example2\UsersApi\bin\Users.DomainService.dll
+D:\Fluent\Example2\UsersApi\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Fluent\Example2\UsersApi\bin\Users.Infrastructure.dll
+D:\Fluent\Example2\UsersApi\bin\netstandard.dll
+D:\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Fluent\Example2\UsersApi\bin\System.Interactive.Async.dll
+D:\Fluent\Example2\UsersApi\bin\Remotion.Linq.dll
+D:\Fluent\Example2\UsersApi\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Fluent\Example2\UsersApi\bin\System.Collections.Immutable.dll
+D:\Fluent\Example2\UsersApi\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.Logging.dll
+D:\Fluent\Example2\UsersApi\bin\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Fluent\Example2\UsersApi\bin\System.Data.SqlClient.dll
+D:\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.Primitives.dll
+D:\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.Options.dll
+D:\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Fluent\Example2\UsersApi\bin\System.Memory.dll
+D:\Fluent\Example2\UsersApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Fluent\Example2\UsersApi\bin\System.Numerics.Vectors.dll
+D:\Fluent\Example2\UsersApi\bin\System.Buffers.dll
+D:\Fluent\Example2\UsersApi\bin\Users.Domain.pdb
+D:\Fluent\Example2\UsersApi\bin\Users.DependencyInjection.pdb
+D:\Fluent\Example2\UsersApi\bin\Users.DependencyInjection.dll.config
+D:\Fluent\Example2\UsersApi\bin\FluentValidation.xml
+D:\Fluent\Example2\UsersApi\bin\FluentValidation.WebApi.xml
+D:\Fluent\Example2\UsersApi\bin\Microsoft.Practices.Unity.xml
+D:\Fluent\Example2\UsersApi\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Fluent\Example2\UsersApi\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Fluent\Example2\UsersApi\bin\Newtonsoft.Json.xml
+D:\Fluent\Example2\UsersApi\bin\System.Net.Http.Formatting.xml
+D:\Fluent\Example2\UsersApi\bin\System.Web.Http.xml
+D:\Fluent\Example2\UsersApi\bin\System.Web.Http.WebHost.xml
+D:\Fluent\Example2\UsersApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Fluent\Example2\UsersApi\bin\Microsoft.EntityFrameworkCore.xml
+D:\Fluent\Example2\UsersApi\bin\Users.InfrastructureServices.pdb
+D:\Fluent\Example2\UsersApi\bin\Users.InfrastructureServices.dll.config
+D:\Fluent\Example2\UsersApi\bin\Users.DomainService.pdb
+D:\Fluent\Example2\UsersApi\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\Fluent\Example2\UsersApi\bin\Users.Infrastructure.pdb
+D:\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Fluent\Example2\UsersApi\bin\System.Interactive.Async.xml
+D:\Fluent\Example2\UsersApi\bin\Remotion.Linq.xml
+D:\Fluent\Example2\UsersApi\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Fluent\Example2\UsersApi\bin\System.Collections.Immutable.xml
+D:\Fluent\Example2\UsersApi\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.Logging.xml
+D:\Fluent\Example2\UsersApi\bin\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.Primitives.xml
+D:\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.Options.xml
+D:\Fluent\Example2\UsersApi\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Fluent\Example2\UsersApi\bin\System.Memory.xml
+D:\Fluent\Example2\UsersApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Fluent\Example2\UsersApi\bin\System.Numerics.Vectors.xml
+D:\Fluent\Example2\UsersApi\bin\System.Buffers.xml
+D:\Fluent\Example2\UsersApi\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Fluent\Example2\UsersApi\bin\ru\System.Web.Http.resources.dll
+D:\Fluent\Example2\UsersApi\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Fluent\Example2\UsersApi\obj\Debug\UsersApi.csprojAssemblyReference.cache
+D:\Fluent\Example2\UsersApi\obj\Debug\UsersApi.csproj.CoreCompileInputs.cache
+D:\Fluent\Example2\UsersApi\obj\Debug\UsersApi.csproj.CopyComplete
+D:\Fluent\Example2\UsersApi\obj\Debug\UsersApi.dll
+D:\Fluent\Example2\UsersApi\obj\Debug\UsersApi.pdb
