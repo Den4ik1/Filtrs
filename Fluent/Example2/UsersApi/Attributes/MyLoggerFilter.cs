@@ -25,9 +25,9 @@ namespace UsersApi.Attributes
 
             logService.Log(new Users.Domain.Models.RequestInfo()
             {
-                ClientIP = GetClientsIpAddress(actionContext.Request),
-                Controller = actionContext.ControllerContext.ControllerDescriptor.ControllerName,
-                Request = rawRequest
+                ClientIP = /*"8.8.8.8",*/GetClientsIpAddress(actionContext.Request),
+                Controller = /*"Google",*/ actionContext.ControllerContext.ControllerDescriptor.ControllerName,
+                Request = /*"La-la",*/ rawRequest
                 });
         }
 

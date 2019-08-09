@@ -16,3 +16,9 @@ D:\Fluent\Example2\Users.Infrastructure\obj\Debug\Users.Infrastructure.csprojAss
 D:\Fluent\Example2\Users.Infrastructure\obj\Debug\Users.Infrastructure.csproj.CoreCompileInputs.cache
 D:\Fluent\Example2\Users.Infrastructure\obj\Debug\Users.Infrastructure.dll
 D:\Fluent\Example2\Users.Infrastructure\obj\Debug\Users.Infrastructure.pdb
+D:\Study\C#\IT-academy_2019\F\Fluent\Example2\Users.Infrastructure\bin\Debug\Users.Infrastructure.dll
+D:\Study\C#\IT-academy_2019\F\Fluent\Example2\Users.Infrastructure\bin\Debug\Users.Infrastructure.pdb
+D:\Study\C#\IT-academy_2019\F\Fluent\Example2\Users.Infrastructure\obj\Debug\Users.Infrastructure.csprojAssemblyReference.cache
+D:\Study\C#\IT-academy_2019\F\Fluent\Example2\Users.Infrastructure\obj\Debug\Users.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Study\C#\IT-academy_2019\F\Fluent\Example2\Users.Infrastructure\obj\Debug\Users.Infrastructure.dll
+D:\Study\C#\IT-academy_2019\F\Fluent\Example2\Users.Infrastructure\obj\Debug\Users.Infrastructure.pdb

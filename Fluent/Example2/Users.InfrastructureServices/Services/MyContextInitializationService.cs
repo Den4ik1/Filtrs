@@ -36,6 +36,7 @@ namespace Users.InfrastructureServices.Services
 
                 transaction.Commit();
             }
+            
         }
     }
 }

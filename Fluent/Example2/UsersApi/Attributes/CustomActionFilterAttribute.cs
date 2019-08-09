@@ -13,7 +13,7 @@ namespace UsersApi.Attributes
 
         public override void OnActionExecuted(HttpActionExecutedContext actionContext)
         {
-            throw new Exception("Test");
+           // throw new Exception("Test");
         }
     }
 }

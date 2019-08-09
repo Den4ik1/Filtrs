@@ -13,7 +13,7 @@ namespace Users.DomainService.Services
     {
         private readonly ILogrepository _logrepository;
 
-        public LogService(ILogServise logrepository)
+        public LogService(ILogrepository logrepository)
         {
 
         }

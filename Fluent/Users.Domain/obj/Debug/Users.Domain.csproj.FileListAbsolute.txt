@@ -16,3 +16,9 @@ D:\Fluent\Users.Domain\obj\Debug\Users.Domain.csprojAssemblyReference.cache
 D:\Fluent\Users.Domain\obj\Debug\Users.Domain.csproj.CoreCompileInputs.cache
 D:\Fluent\Users.Domain\obj\Debug\Users.Domain.dll
 D:\Fluent\Users.Domain\obj\Debug\Users.Domain.pdb
+D:\Study\C#\IT-academy_2019\F\Fluent\Users.Domain\bin\Debug\Users.Domain.dll
+D:\Study\C#\IT-academy_2019\F\Fluent\Users.Domain\bin\Debug\Users.Domain.pdb
+D:\Study\C#\IT-academy_2019\F\Fluent\Users.Domain\obj\Debug\Users.Domain.csprojAssemblyReference.cache
+D:\Study\C#\IT-academy_2019\F\Fluent\Users.Domain\obj\Debug\Users.Domain.csproj.CoreCompileInputs.cache
+D:\Study\C#\IT-academy_2019\F\Fluent\Users.Domain\obj\Debug\Users.Domain.dll
+D:\Study\C#\IT-academy_2019\F\Fluent\Users.Domain\obj\Debug\Users.Domain.pdb

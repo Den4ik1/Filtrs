@@ -31,3 +31,14 @@ D:\Fluent\Example2\Users.DomainService\obj\Debug\Users.DomainServices.csproj.Cor
 D:\Fluent\Example2\Users.DomainService\obj\Debug\Users.DomainServices.csproj.CopyComplete
 D:\Fluent\Example2\Users.DomainService\obj\Debug\Users.DomainService.dll
 D:\Fluent\Example2\Users.DomainService\obj\Debug\Users.DomainService.pdb
+D:\Study\C#\IT-academy_2019\F\Fluent\Example2\Users.DomainService\bin\Debug\Users.DomainService.dll
+D:\Study\C#\IT-academy_2019\F\Fluent\Example2\Users.DomainService\bin\Debug\Users.DomainService.pdb
+D:\Study\C#\IT-academy_2019\F\Fluent\Example2\Users.DomainService\bin\Debug\Users.Domain.dll
+D:\Study\C#\IT-academy_2019\F\Fluent\Example2\Users.DomainService\bin\Debug\Users.Infrastructure.dll
+D:\Study\C#\IT-academy_2019\F\Fluent\Example2\Users.DomainService\bin\Debug\Users.Domain.pdb
+D:\Study\C#\IT-academy_2019\F\Fluent\Example2\Users.DomainService\bin\Debug\Users.Infrastructure.pdb
+D:\Study\C#\IT-academy_2019\F\Fluent\Example2\Users.DomainService\obj\Debug\Users.DomainServices.csprojAssemblyReference.cache
+D:\Study\C#\IT-academy_2019\F\Fluent\Example2\Users.DomainService\obj\Debug\Users.DomainServices.csproj.CoreCompileInputs.cache
+D:\Study\C#\IT-academy_2019\F\Fluent\Example2\Users.DomainService\obj\Debug\Users.DomainServices.csproj.CopyComplete
+D:\Study\C#\IT-academy_2019\F\Fluent\Example2\Users.DomainService\obj\Debug\Users.DomainService.dll
+D:\Study\C#\IT-academy_2019\F\Fluent\Example2\Users.DomainService\obj\Debug\Users.DomainService.pdb

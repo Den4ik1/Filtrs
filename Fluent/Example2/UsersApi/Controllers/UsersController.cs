@@ -24,6 +24,7 @@ namespace UsersApi.Controllers
         }
 
         [CustomActionFilter]
+        [MyLoggerFilter]
         [Route(""), HttpGet]
         public List<UserModel> GetUsers([FromUri] GetUsersRequest request)
         {
